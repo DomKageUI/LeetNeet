@@ -30,4 +30,4 @@ The need for Dijkstra’s algorithm arises in many applications where finding th
 
 For example, It can be used in the routing protocols for computer networks and also used by map systems to find the shortest path between starting point and the destination.
 
-Dijkstra's algorithm is utilized in video game development and robotics for pathfinding purposes. It enables game characters or robots to navigate through a complex environment, avoiding obstacles and finding the shortest path to reach their targets.
+Dijkstra's algorithm is also utilized in video game development and robotics for pathfinding purposes. It enables game characters or robots to navigate through a complex environment, avoiding obstacles and finding the shortest path to reach their targets.
